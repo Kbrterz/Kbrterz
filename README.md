@@ -4,7 +4,6 @@
 - 📫 How to reach me terzioglukubra@yahoo.com
 - Pronouns: Project Manager, Risk Manager, Scrum Master, Data Analyst and PowerBI enthusiast 
 - ⚡ Fun fact: sharing knowledge
-- Also I am a beginner Data Analyst
 - Share my works and publish.
 - https://www.linkedin.com/in/kubra-terzioglu-a9742259/
 - https://www.kaggle.com/kubraterz

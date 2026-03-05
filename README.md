@@ -5,7 +5,7 @@
 - Pronouns: Project Manager, Risk Manager, Scrum Master, Data Analyst and PowerBI enthusiast 
 - ⚡ Fun fact: sharing knowledge
 - Share my works and publish.
-- https://www.linkedin.com/in/kubra-terzioglu-a9742259/
+- https://www.linkedin.com/in/kubra-terzioglu/
 - https://www.kaggle.com/kubraterz
 <!---
 Kbrterz/Kbrterz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
